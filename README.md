@@ -2,8 +2,6 @@
 
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... Business Intelligence, Data Science, Machine learning & AI
 - 🌱 I’m currently learning ... Machine Learning & Deep Learning
 - 👯 I’m looking to collaborate on ... Data Science & Analytics 
