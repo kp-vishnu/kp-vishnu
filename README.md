@@ -9,4 +9,4 @@
 - 💬 Ask me about ... Python and R
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/vishnu-k-p-b77aab201/)
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I'm a physicist by training.
+- ⚡ Fun fact: ... I'm a 'nano' physicist by training.
