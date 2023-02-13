@@ -10,6 +10,8 @@
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/vishnu-k-p-b77aab201/)
 - 😄 Pronouns: ... He/Him
 - ⚡ About me: ... 
+
+
 As a postgraduate in Science with a major in Physics from the Indian Institute of Science, Education and Research, Mohali, I bring a strong foundation in programming, statistics, mathematical modeling, and analytical thinking to the field of data science. During my college days, I developed a keen interest in data through extensive exposure to various kinds of data and hours of contemplation, making it a natural progression to pursue a career in this field.
 
 I am well-versed in a variety of programming languages such as Python, R, and SQL, and have experience using statistical tools and techniques such as regression analysis, hypothesis testing, and machine learning algorithms. I also have a solid understanding of mathematical modeling, which I have applied in several projects to build predictive models for various real-world applications.
